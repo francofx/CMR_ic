@@ -1,0 +1,55 @@
+/*
+
+.bg-danger, .bg-success {
+	padding: 0 5px;
+}
+
+a {
+	color: #EF1F2F;
+	text-decoration: none;
+
+}
+*/
+/*!
+ * Start Bootstrap - Full (http://startbootstrap.com/template-overviews/full)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
+ */
+/*
+body {
+    background: url('http://localhost/IPR/img/concejo1.jpg') no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+*/
+/*
+ * Globals
+ /* gradient */
+/*.body {
+	background:
+		-webkit-linear-gradient(45deg, hsla(70, 100%, 100%, 1) 0%, hsla(70, 100%, 100%, 0) 70%),
+		-webkit-linear-gradient(315deg, hsla(160, 92%, 100%, 1) 10%, hsla(160, 92%, 100%, 0) 80%),
+		-webkit-linear-gradient(225deg, hsla(205, 91%, 79%, 1) 10%, hsla(205, 91%, 79%, 0) 80%),
+		-webkit-linear-gradient(135deg, hsla(250, 0%, 71%, 1) 100%, hsla(250, 0%, 71%, 0) 70%);
+
+	}
+
+	*/
+
+.text-primary {
+    color: #4366aa!important;
+}
+
+input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].btn-block {
+    /*background-image: url(images/tr-btn.png);*/
+    background-repeat: repeat-x;
+    background-color: #4366aa;
+    background-size: contain;
+    -webkit-box-shadow: inset 0px -3px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0px -3px 0px rgba(0, 0, 0, 0.3);
+}
+
